@@ -4,6 +4,8 @@
 
 This VBA project is designed to automate various tasks associated with monthly sales reports in Excel. The project includes several subroutines that work together to streamline the process of creating pivot tables, generating charts, copying Excel content to PowerPoint for presentations, and cleaning up the workbook by deleting pivot tables and charts. This automation is particularly useful for businesses or individuals regularly dealing with sales data and requiring consistent report formats.
 
+<img src="https://drive.google.com/uc?id=1e1tDgTUYFH69blDAJoJNLIS1YW5Mu7NK" alt="bike dashboard" width="700" height="400">
+
 ## Features
 
 ### 1. `CreatePivot` Subroutine
