@@ -65,10 +65,6 @@ You can customize these subroutines by modifying parameters and properties in th
 
 This project is compatible with Microsoft Excel. Ensure your version of Excel supports VBA.
 
-## Contribution
-
-Contributions to improve or enhance the functionality of these subroutines are welcome. Please submit pull requests with a detailed description of your changes.
-
 ## Contact
 
 For queries or suggestions, contact me at rohitpaul09@gmail.com.
